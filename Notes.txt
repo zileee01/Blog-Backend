@@ -1,0 +1,7 @@
+-Every time you install something you can check if it was installed correctly in the express.json.
+
+-we always need to use try{}catch{(err)} when working with databases , en cas they fail.
+
+-find return an array with all the results that matches the filter , why we don't define a filter it will return all the records into the array
+
+-app.use(router); to use everuthing or u can specify a url , per ex : app.use("/api/kch haja idk",router); 
